@@ -1,0 +1,5 @@
+ev3dev-adduser-config (1.0.0) stable; urgency=low
+
+  * Initial Release.
+
+ -- David Lechner <david@lechnology.com>  Mon, 28 Sep 2015 16:30:05 -0500
