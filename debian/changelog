@@ -1,3 +1,9 @@
+ev3dev-adduser-config (1.1.0) stable; urgency=medium
+
+  * Add tty to the list of default groups
+
+ -- David Lechner <david@lechnology.com>  Sun, 15 Nov 2015 21:29:52 -0600
+
 ev3dev-adduser-config (1.0.0) stable; urgency=low
 
   * Initial Release.
